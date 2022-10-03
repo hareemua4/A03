@@ -40,7 +40,7 @@ PART 4: Committing/Pushing Files
   11. Make sure the repository name is correct.
   12. Click "Share". A message should pop up to tell you that the project was successfully shared on GitHub.
   13. If you go to your GitHub account online, you will see this file in the repository.
-  14. If you add any files/info onto existing files on GitHub and then commit, you will see those files/changes in the file(s) on Webstorm.
+  14. If you add any files/info onto existing files on GitHub and then commit, you will see those files/changes in the file(s) on Webstorm after clicking on "Git" then "Pull" then "Pull"
   15. If you make a change to a file on Webstorm, then commit it (steps 7-9), you have to push the file to GitHub by clicking "Git" then "Push"
   16. The changes will now be visible on the file on GitHub, even though you edited it on Webstorm on your local machine.
 
