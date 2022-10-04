@@ -46,9 +46,9 @@ Committing/Pushing Files
 
 
 PART 2: Glossary
-  - **Branch**: 
-  - **Clone**:
-  - **Commit**:
+  - **Branch**: Included in a repository, but is a draft branch that lets you edit and make changes without changing the actual branch. Helps you try new code and fix any mistakes before permanently merging it with the main branch.
+  - **Clone**: Located on the local machine, this is a copy of a repository that you can edit with whatever editor you want, and then pushing it to Git just to keep track of your commits. This allows you to not use Git as an editor but still track all your edits.
+  - **Commit**: An action that allows you to save your work with details such as a timestamp so as to track your progress on the project over time. You can add a message to leave yourself any noted for when you or someone else will view this file later. 
   - **Fetch**:
   - **GIT**:
   - **Github**:
@@ -58,3 +58,4 @@ PART 2: Glossary
   - **Pull**:
   - **Remote**:
   - **Repository**:
+
