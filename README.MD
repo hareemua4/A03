@@ -2,8 +2,7 @@ Hareem Awan
 IS117-001  
 A03 
 
-PART 1: Directions 
-
+PART 1: Directions
 Using Webstorm:
   1. Go to the Jetbrains website: https://www.jetbrains.com/community/education/#students
   2. Scroll down the the tab "For students and teachers"
@@ -17,9 +16,8 @@ Getting Git/GitHub:
   1. Go to https://git-scm.com/downloads and download the Git program onto your local machine.
   2. Go to https://github.com/join and create an account. Use an email you check often and a password you will remember.
 
-
 Connecting Webstorm and GitHub:
-  1. Open webstorm
+  1. Open Webstorm
   2. Go to the settings tab
   3. Click on "Version Control" and then "Git"
   4. Check the path and make sure it is accurate 
@@ -44,9 +42,9 @@ Committing/Pushing Files
   11. Make sure the repository name is correct.
   12. Click "Share". A message should pop up to tell you that the project was successfully shared on GitHub.
   13. If you go to your GitHub account online, you will see this file in the repository.
-  14. If you add any files/info onto existing files on GitHub and then commit, you will see those files/changes in the file(s) on Webstorm after clicking on "Git" then "Pull" then "Pull"
+  14. If you add any files/info onto existing files on GitHub and then commit, you will see those files/changes in the file(s) on Webstorm after clicking on "Git" then "Pull" then "Pull" on Webstorm
   15. If you make a change to a file on Webstorm, then commit it (steps 7-9), you have to push the file to GitHub by clicking "Git" then "Push"
-  16. The changes will now be visible on the file on GitHub, even though you edited it on Webstorm on your local machine.
+  16. The changes will now be visible on the file on GitHub, even though you edited it on Webstorm on your local machine.  
 
 
 PART 2: Glossary
@@ -62,8 +60,7 @@ PART 2: Glossary
   - **Pull**: If you want to get the most recent file from a remote repository on GitHub onto your local machine, you would pull it and merge onto the file on your local machine.
   - **Remote**: This is used to describe the location of a repository that is not your local machine, such as if it was on GitHub.
   - **Repository**: A folder for a project in which you can store all related files as well as the track of all commits.  
-  
-  
+
 REFERENCES:
 - https://docs.github.com/en/get-started/quickstart/github-glossary
 - https://njit.instructure.com/courses/24634/files/3881120?module_item_id=872424
