@@ -49,13 +49,12 @@ PART 2: Glossary
   - **Branch**: Included in a repository, but is a draft branch that lets you edit and make changes without changing the actual branch. Helps you try new code and fix any mistakes before permanently merging it with the main branch.
   - **Clone**: Located on the local machine, this is a copy of a repository that you can edit with whatever editor you want, and then pushing it to Git just to keep track of your commits. This allows you to not use Git as an editor but still track all your edits.
   - **Commit**: An action that allows you to save your work with details such as a timestamp so as to track your progress on the project over time. You can add a message to leave yourself any noted for when you or someone else will view this file later. 
-  - **Fetch**:
-  - **GIT**:
-  - **Github**:
-  - **Merge**:
-  - **Merge Conflict**:
-  - **Push**:
-  - **Pull**:
-  - **Remote**:
-  - **Repository**:
-
+  - **Fetch**: The git fetch action allows you to add any edits you made on a remote repository to your local branch without the need for committing, thus you can go over the edits before commiting them.
+  - **GIT**: An open source program that allows a user to keep track of changes made on a file by recording the timestamp. 
+  - **Github**: An interface that allows users to use Git to complete any projects.
+  - **Merge**: This action combines two branches together, usually used when a user is working on a file on the local machine and wants to add those changes onto the file on GitHub.
+  - **Merge Conflict**: If a merge conflict occurrs, you cannot merge the branches without first solving the issue. This can happen when multiple changes are made to the same line in a file by different users or if a deleted file is trying to be edited at the same time it is being deleted, by two different people.
+  - **Push**: When you push a file, you send your committed changes from your local machine to the repository on GitHub.
+  - **Pull**: If you want to get the most recent file from a remote repository on GitHub onto your local machine, you would pull it and merge onto the file on your local machine.
+  - **Remote**: This is used to describe the location of a repository that is not your local machine, such as if it was on GitHub.
+  - **Repository**: A folder for a project in which you can store all related files as well as the track of all commits.
