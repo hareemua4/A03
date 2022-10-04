@@ -1,5 +1,6 @@
-PART 1: Directions on Using Webstorm:
+PART 1: Directions 
 
+Using Webstorm:
   1. Go to the Jetbrains website: https://www.jetbrains.com/community/education/#students
   2. Scroll down the the tab "For students and teachers"
   3. Click "Apply Now." You will be redirected to another page
@@ -8,13 +9,12 @@ PART 1: Directions on Using Webstorm:
   6. Click "Apply for free products" 
   7. Wait for the email informing you that you received the license. This may take a few days or it may take a while. Keep checking your email for any news.
 
-
-PART 2: Directions on Using Git/Github:
+Getting Git/GitHub:
   1. Go to https://git-scm.com/downloads and download the Git program onto your local machine.
   2. Go to https://github.com/join and create an account. Use an email you check often and a password you will remember.
 
 
-PART 3: Connecting Webstorm and Github:
+Connecting Webstorm and GitHub:
   1. Open webstorm
   2. Go to the settings tab
   3. Click on "Version Control" and then "Git"
@@ -26,7 +26,7 @@ PART 3: Connecting Webstorm and Github:
   9. Edit the last part of the path: erase the word "untitled" and type the name you want to give your project.
   10. Click "Create" on the bottom right 
 
-PART 4: Committing/Pushing Files 
+Committing/Pushing Files 
   1. In Webstorm, click on "File", then "New", then "File"
   2. Name the file, then hit the Enter key 
   3. Edit the file 
@@ -45,3 +45,16 @@ PART 4: Committing/Pushing Files
   16. The changes will now be visible on the file on GitHub, even though you edited it on Webstorm on your local machine.
 
 
+PART 2: Glossary
+  - **Branch**: 
+  - **Clone**:
+  - **Commit**:
+  - **Fetch**:
+  - **GIT**:
+  - **Github**:
+  - **Merge**:
+  - **Merge Conflict**:
+  - **Push**:
+  - **Pull**:
+  - **Remote**:
+  - **Repository**:
