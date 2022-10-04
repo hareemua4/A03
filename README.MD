@@ -1,6 +1,6 @@
-Hareem Awan 
-IS117-001 
-A03
+Hareem Awan  
+IS117-001  
+A03 
 
 PART 1: Directions 
 
@@ -61,8 +61,9 @@ PART 2: Glossary
   - **Push**: When you push a file, you send your committed changes from your local machine to the repository on GitHub.
   - **Pull**: If you want to get the most recent file from a remote repository on GitHub onto your local machine, you would pull it and merge onto the file on your local machine.
   - **Remote**: This is used to describe the location of a repository that is not your local machine, such as if it was on GitHub.
-  - **Repository**: A folder for a project in which you can store all related files as well as the track of all commits.
-
+  - **Repository**: A folder for a project in which you can store all related files as well as the track of all commits.  
+  
+  
 REFERENCES:
 - https://docs.github.com/en/get-started/quickstart/github-glossary
 - https://njit.instructure.com/courses/24634/files/3881120?module_item_id=872424
